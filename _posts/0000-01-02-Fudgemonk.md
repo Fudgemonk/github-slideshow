@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+After rain, the Sun is always rising
 Use the left arrow to go back!
